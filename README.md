@@ -36,9 +36,8 @@ I created two tables — one for computers, one for televisions — and practice
 
 ## Final Reflections
 
-This lab reinforced my ability to structure relational data and evolve schemas based on changing requirements. Unlike Lab 1, which focused on querying existing data, this lab emphasized **data modeling and updates** — more like what you'd do when building out a real-world application backend.
-
-It also helped me strengthen my muscle memory for Postgres CLI tools and syntax fluency when designing data structures.
+This lab reinforced my ability to structure relational data and evolve schemas based on changing requirements. Unlike Lab 1, which focused on querying existing data, this lab emphasized **data modeling and updates** — more like what I might see in the work-place.
+It also helped me strengthen my muscle memory for Postgres CLI tools and syntax fluency when designing data structures. 
 
 ---
 
